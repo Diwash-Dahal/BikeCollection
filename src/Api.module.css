@@ -1,0 +1,9 @@
+
+.img{
+    margin-top: 5px;
+    height: 200px;
+    width: 390px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+}

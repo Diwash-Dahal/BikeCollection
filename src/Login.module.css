@@ -1,0 +1,23 @@
+
+.conatiner{
+    height: 370px;
+    width: 400px;
+    background-color: rgba(21, 122, 139, 0.638);
+    margin: 100px;
+    border-radius: 20px;
+    border: 3px solid;
+    
+}
+.input{
+    margin-top: 45px;
+    width: 80%;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+.btn{
+    margin-top: 50px;
+    width: 90px;
+    border-radius: 6px;
+    height: 40px;
+}
